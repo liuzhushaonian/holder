@@ -1,0 +1,12 @@
+#bout holder
+
+it's a file server by java 
+
+#用法（英文我特么实在编不下去了）
+
+导入项目，等待maven构建完成，在IDE下运行Application的main方法即可，文件可放入resources/upload下，启动后浏览器访问ip:9000/upload/即可访问到upload下所有文件。
+
+目前仅仅处于最基本的状态，仅仅支持文件传输，且无法做到权限管理，自定义文件路径等功能，我平时用来传输大文件到手机里才会启动的。
+
+本项目基于Blade框架，是我第二个使用Blade框架的项目，在此特地感谢Blade框架的开发者@王爵nice，你的框架帮了我很大的忙。
+
