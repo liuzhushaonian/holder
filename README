@@ -1,8 +1,8 @@
-#bout holder
+# bout holder
 
 it's a file server by java 
 
-#用法（英文我特么实在编不下去了）
+# 用法（英文我特么实在编不下去了）
 
 导入项目，等待maven构建完成，在IDE下运行Application的main方法即可，文件可放入resources/upload下，启动后浏览器访问ip:9000/upload/即可访问到upload下所有文件。
 
